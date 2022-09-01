@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Bem Vindo ao meu App!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Saiba todas as novidades do mercado imobiliário <code>pages/index.js</code>
         </p>
       </main>
 
